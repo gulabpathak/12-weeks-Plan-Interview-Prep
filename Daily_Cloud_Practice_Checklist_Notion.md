@@ -1,4 +1,4 @@
-# Daily Cloud Practice Checklist - Notion Template
+# Daily Cloud Practice Checklist :
 
 Goal: Build daily momentum in learning + labs + interview readiness.
 
